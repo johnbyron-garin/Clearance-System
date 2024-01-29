@@ -1,0 +1,10 @@
+td{
+    align-items: center;
+    padding: 25px 25px 25px 25px
+}
+
+button.btn btn-primary btn-lg btn-floating{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+

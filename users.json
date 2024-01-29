@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "64782f8881f7b694d6b32877"
+  },
+  "fname": "Uzziel Josh",
+  "mname": "R",
+  "lname": "Abiday",
+  "studno": "2021-02684",
+  "email": "urabiday@up.edu.ph",
+  "password": "$2b$10$jvN6x2Am2OLLWj/21jvo1OpSkvid.iD8mzexqeURA4BSWCl2NPGGK",
+  "isApproved": true,
+  "type": "student",
+  "__v": 3,
+  "application": [
+    {
+      "date_created": {
+        "$date": "2023-06-04T00:00:00.000Z"
+      },
+      "purpose": "HEHEH",
+      "githublink": "okokok",
+      "progress": "4",
+      "currentlyOpen": true,
+      "_id": {
+        "$oid": "647ca7e2726244f8c58d29be"
+      },
+      "returned": true,
+      "remarks": [
+        "sssss(Adviser)"
+      ]
+    },
+    {
+      "date_created": null,
+      "purpose": "aa",
+      "githublink": "aaa",
+      "progress": "nothing yet",
+      "currentlyOpen": false,
+      "_id": {
+        "$oid": "647d54518f412a96ad967c9e"
+      }
+    }
+  ],
+  "adviser": "aa@up.edu.ph"
+},{
+  "_id": {
+    "$oid": "64782ffd5256ff7cf6944eb4"
+  },
+  "fname": "admin",
+  "mname": "admin",
+  "lname": "admin",
+  "studno": "1",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$RynQfYlxfn.bWZqfJa/vtuCA8iThVrbO176U45kOCUPvuEoDjVqce",
+  "isApproved": true,
+  "type": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d7accca337263982f6690"
+  },
+  "fname": "Monitor2",
+  "mname": "monitor",
+  "lname": "Monitor2",
+  "studno": "1",
+  "email": "monitor2@up.edu.ph",
+  "password": "$2b$10$ziwfu9GuI9NOTWi8EzOhyujzT2AP0B6aJs8etfL00lIWBKZXmbvGu",
+  "isApproved": true,
+  "type": "approver-officer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d8a68aadeebd7be670ee4"
+  },
+  "fname": "Im",
+  "mname": "K",
+  "lname": "Nayeon",
+  "studno": "2021-00001",
+  "email": "nayeon@up.edu.ph",
+  "password": "$2b$10$qJObSvKHYIV6TJzksSu/r.4j2DzwCanE91mySeHMos.C4t1czjlYW",
+  "isApproved": true,
+  "type": "student",
+  "__v": 13,
+  "adviser": "aa@up.edu.ph",
+  "application": [
+    {
+      "date_created": {
+        "$date": "2023-06-15T00:00:00.000Z"
+      },
+      "purpose": "ww",
+      "githublink": "ww.com",
+      "progress": "5",
+      "currentlyOpen": true,
+      "_id": {
+        "$oid": "64808bf74b11c70a7a14862b"
+      },
+      "returned": false,
+      "remarks": [
+        "sjsjsjjs",
+        "Not good enough",
+        "hahahahaha(Adviser)",
+        "no!(Adviser)",
+        "dddd(Adviser)",
+        "dddd(Adviser)"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64801b720fb447f43e148710"
+  },
+  "fname": "shjhjk",
+  "mname": "kjkshjkk",
+  "lname": "jhdkjhjksdhkj",
+  "studno": "",
+  "email": "aa@up.edu.ph",
+  "password": "$2b$10$SrvvErA5cyr4iS0D/CPs3uIR13Ckcy/u/X.nBN0ycXk.AA.Z4awN6",
+  "isApproved": true,
+  "type": "approver-adviser",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64801be58d4bf94605f9ed1f"
+  },
+  "fname": "ss",
+  "mname": "hjgjhg",
+  "lname": "hgjgj",
+  "studno": "",
+  "email": "a@gmail.com",
+  "password": "$2b$10$CK1jKosOpjXQ8ShHVYaW8eTNDnjtP0xX7QorSbRyBtKbXvDdH4OGO",
+  "isApproved": true,
+  "type": "approver-adviser",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64801c1a8d4bf94605f9ed21"
+  },
+  "fname": "officer",
+  "mname": "officer",
+  "lname": "officer",
+  "studno": "",
+  "email": "officer@up.edu.ph",
+  "password": "$2b$10$vOmIJiVzHK10ITkrHWKWeuQw.WmCinOn1aGQTBNaZJjZrp0CEKA7m",
+  "isApproved": true,
+  "type": "approver-officer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64802117b5680d195c85934e"
+  },
+  "fname": "Son",
+  "mname": "H",
+  "lname": "Chaeyoung",
+  "studno": "2021-92821",
+  "email": "chaeyoung@up.edu.ph",
+  "password": "$2b$10$Au87y7Qg2sw0lH9vinyUQ.ueqZQYtrS2KzNUBAHtAW9QtSO0LJvTG",
+  "isApproved": true,
+  "type": "student",
+  "__v": 0,
+  "adviser": "aa@up.edu.ph"
+}]

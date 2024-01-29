@@ -1,0 +1,44 @@
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+    }
+  }
+
+*{
+margin: 0 auto;
+font-family: 'Golos Text', sans-serif;
+}
+
+.body{
+background-color: gray;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+
+.column {
+flex: 33.33%;
+padding: 5px;
+}
+.card {
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+border-radius: 5px; /* 5px rounded corners */
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+float: left;
+}
+.row {
+display: flex;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
