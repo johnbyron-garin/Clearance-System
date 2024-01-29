@@ -8,31 +8,31 @@
 
 # Screenshots
 ## LOGIN Page
-### ![LOGIN Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/login.png)
+### ![LOGIN Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/login.png)
 
 ## SIGNUP Page
-### ![SIGNUP Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/signup.png)
+### ![SIGNUP Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/signup.png)
 
 ## STUDENT ACCOUNTS Page
-### ![STUDENT ACCOUNTS Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/admin-studentaccounts.png)
+### ![STUDENT ACCOUNTS Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/admin-studentaccounts.png)
 
 ## APPROVER ACCOUNTS Page
-### ![APPROVER ACCOUNTS Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/admin-approveraccounts.png)
+### ![APPROVER ACCOUNTS Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/admin-approveraccounts.png)
 
 ## CREATE APPROVER ACCOUNT Page
-### ![CREATE APPROVER ACCOUNT Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/admin-createapprover.png)
+### ![CREATE APPROVER ACCOUNT Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/admin-createapprover.png)
 
 ## STUDENT Page
-### ![STUDENT Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/student.png)
+### ![STUDENT Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/student.png)
 
 ## ALL APPLICATION Page
-### ![ALL APPLICATION Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/student-allapplication.png)
+### ![ALL APPLICATION Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/student-allapplication.png)
 
 ## CREATE NEW APPLICATIO Page
-### ![CREATE NEW APPLICATION Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/student-application.png)
+### ![CREATE NEW APPLICATION Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/student-application.png)
 
 ## APPLICATION DETAILS Page
-### ![APPLICATION DETAILS Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/student-applicationdetails.png)
+### ![APPLICATION DETAILS Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/student-applicationdetails.png)
 
 
 ## Progress:
@@ -45,10 +45,10 @@
     - searchStudentByName
 -Approver Page to view Student Applications
 ## Screenshots:
-### ![APRROVER Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/screenshots_progress/ApproverScreen.png)
+### ![APRROVER Page](https://github.com/johnbyron-garin/Clearance-System/blob/main/screenshots_progress/ApproverScreen.png)
 ### Approve Accounts Screen and functionality
 
-### ![APRROVE ACCOUNT SCREEN AND FUNCTIONALITY](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/adminapproveaccount.PNG)
+### ![APRROVE ACCOUNT SCREEN AND FUNCTIONALITY](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/adminapproveaccount.PNG)
 
 # 2nd Milestone
 
@@ -61,11 +61,11 @@
 
 ### Student Screen
 
-### ![Student Screen](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/studentscreen.png)
+### ![Student Screen](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/studentscreen.png)
 
 ### Admin Screen
 
-### ![Admin Screen](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/adminscreen.png)
+### ![Admin Screen](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/adminscreen.png)
 
 # 1st Milestone
 
@@ -83,24 +83,24 @@
 
 ### Login Page
 
-## ![Login Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/auth/screenshots_progress/loginpage0.PNG)
+## ![Login Page](https://github.com/johnbyron-garin/Clearance-System/blob/auth/screenshots_progress/loginpage0.PNG)
 
 ### Signup Page
 
-### ![Sign Up Page](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/auth/screenshots_progress/signuppage0.PNG)
+### ![Sign Up Page](https://github.com/johnbyron-garin/Clearance-System/blob/auth/screenshots_progress/signuppage0.PNG)
 
 ### Saved User Data
 
-### ![Save User Data](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/auth/screenshots_progress/saveduserdata.PNG)
+### ![Save User Data](https://github.com/johnbyron-garin/Clearance-System/blob/auth/screenshots_progress/saveduserdata.PNG)
 
 ### Scratched Plans
 
-### ![Figma Scratch](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/figma_scratch0.png)
+### ![Figma Scratch](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/figma_scratch0.png)
 
-### ![Figma Scratch](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/figma_scratch1.png)
+### ![Figma Scratch](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/figma_scratch1.png)
 
-### ![Figma Scratch](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/figma_scratch2.png)
+### ![Figma Scratch](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/figma_scratch2.png)
 
-### ![UI Scratch](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/ui_scratch0.png)
+### ![UI Scratch](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/ui_scratch0.png)
 
-### ![UI Scratch](https://github.com/CMSC100/cmsc-100-uv-6l-project-group-4/blob/main/images/ui_scratch1.png)
+### ![UI Scratch](https://github.com/johnbyron-garin/Clearance-System/blob/main/images/ui_scratch1.png)
